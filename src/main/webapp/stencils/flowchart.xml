@@ -22,7 +22,7 @@
 <stroke/>
 </foreground>
 </shape>
-<shape name="Annotation 2" h="98" w="100" aspect="variable" strokewidth="inherit">
+<shape name="Annotation 2" h="98" w="100" aspect="variable" strokewidth="5.0">
 <connections>
 <constraint x="0.5" y="0" perimeter="0" name="N"/>
 <constraint x="0.5" y="1" perimeter="0" name="S"/>
