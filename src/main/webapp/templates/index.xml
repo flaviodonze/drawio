@@ -118,7 +118,7 @@
 <template url="flowcharts/cross_functional_flowchart_1.xml" libs="general;flowchart"/>
 <template url="flowcharts/cross_functional_flowchart_2.xml" libs="general;flowchart"/>
 <template url="flowcharts/data_flow_1.xml" libs="general;uml"/>
-<template url="flowcharts/data_flow_2.xml" libs="general;uml"/>
+<!-- <template url="flowcharts/data_flow_2.xml" libs="general;uml"/> -->
 <template url="flowcharts/data_flow_3.xml" libs="general;uml"/>
 <template url="flowcharts/epc.xml" libs="general;flowchart"/>
 <template url="flowcharts/flowchart_1.xml" libs="general;flowchart"/>
@@ -169,10 +169,10 @@
 <template url="uml/activity_diagram_2.xml" libs="general;uml"/>
 <template url="uml/sequence_1.xml" libs="general;uml"/>
 <template url="uml/sequence_2.xml" libs="general;uml"/>
-<template url="uml/state_machine.xml" libs="general;uml"/>
-<template url="uml/sysml.xml" libs="general;uml;sysml"/>
-<template url="uml/uml_1.xml" libs="general;uml"/>
-<template url="uml/uml_2.xml" libs="general;uml"/>
+<!-- <template url="uml/state_machine.xml" libs="general;uml"/> -->
+<!-- <template url="uml/sysml.xml" libs="general;uml;sysml"/> -->
+<!-- <template url="uml/uml_1.xml" libs="general;uml"/> -->
+<!-- <template url="uml/uml_2.xml" libs="general;uml"/> -->
 <template url="venn/spider_1.xml" libs="general"/>
 <template url="venn/spider_2.xml" libs="general"/>
 <template url="venn/venn_1.xml" libs="general"/>
