@@ -700,11 +700,7 @@
 			dlg.init();
 		});
 
-		editorUi.actions.addAction('quickStart...', function()
-		{
-			editorUi.openLink('https://www.youtube.com/watch?v=Z0D96ZikMkc');
-		});
-		
+	
 		editorUi.actions.addAction('forkme', function()
 		{
 			if (EditorUi.isElectronApp)
