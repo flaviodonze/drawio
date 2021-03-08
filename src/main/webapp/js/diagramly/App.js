@@ -312,15 +312,15 @@ App.pluginRegistry = {'4xAKTrabTpTzahoLthkwPNUn': '/plugins/explore.js',
 	'tips': '/plugins/tooltips.js', 'svgdata': '/plugins/svgdata.js',
 	'electron': 'plugins/electron.js',
 	'number': '/plugins/number.js', 'sql': '/plugins/sql.js',
-	'props': '/plugins/props.js', 'text': '/plugins/text.js',
+	'props': '/plugins/props.js', 'text': 'plugins/text.js',
 	'anim': '/plugins/animation.js', 'update': '/plugins/update.js',
 	'trees': '/plugins/trees/trees.js', 'import': '/plugins/import.js',
 	'replay': '/plugins/replay.js', 'anon': '/plugins/anonymize.js',
 	'tr': '/plugins/trello.js', 'f5': '/plugins/rackF5.js',
-	'tickets': '/plugins/tickets.js', 'flow': '/plugins/flow.js',
+	'tickets': 'plugins/tickets.js', 'flow': 'plugins/flow.js',
 	'webcola': '/plugins/webcola/webcola.js', 'rnd': '/plugins/random.js',
 	'page': '/plugins/page.js', 'gd': '/plugins/googledrive.js',
-	'tags': '/plugins/tags.js', 'custom': '/plugins/custom.js'};
+	'tags': '/plugins/tags.js', 'custom': 'plugins/custom.js'};
 
 App.publicPlugin = [
 	'custom',
