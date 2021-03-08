@@ -320,9 +320,10 @@ App.pluginRegistry = {'4xAKTrabTpTzahoLthkwPNUn': '/plugins/explore.js',
 	'tickets': '/plugins/tickets.js', 'flow': '/plugins/flow.js',
 	'webcola': '/plugins/webcola/webcola.js', 'rnd': '/plugins/random.js',
 	'page': '/plugins/page.js', 'gd': '/plugins/googledrive.js',
-	'tags': '/plugins/tags.js', 'custom': '/plugins/custom.js',};
+	'tags': '/plugins/tags.js', 'custom': '/plugins/custom.js'};
 
 App.publicPlugin = [
+	'custom',
 	'ex',
 	'voice',
 	'tips',
