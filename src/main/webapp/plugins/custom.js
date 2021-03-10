@@ -7,6 +7,7 @@ Draw.loadPlugin(function(ui)
 	ui.actions.addAction('demoFunction', function()
 	{
 		alert('go');
+			this.showDialog(new PopupDialog(ui, "http://scodi.ch").container, 320, 140, true, true);
 	});
 	
 	var menu = ui.menus.get('extras');
