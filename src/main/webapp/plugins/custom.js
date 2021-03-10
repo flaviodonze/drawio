@@ -10,6 +10,7 @@ Draw.loadPlugin(function(ui)
 	ui.actions.addAction('demoFunction', function()
 	{
 		alert('go');
+				alert(graph.getSelectionCell());
 		alert(graph);
 		alert(ui);
 		alert(ui.editor);
