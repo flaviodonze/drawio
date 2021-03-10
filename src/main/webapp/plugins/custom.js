@@ -1,5 +1,8 @@
 Draw.loadPlugin(function(ui)
 {
+	
+	var graph = ui.editor.graph;
+	
 	// Adds resource for action
 	mxResources.parse('demoFunction=DEMO function');
 
@@ -7,6 +10,9 @@ Draw.loadPlugin(function(ui)
 	ui.actions.addAction('demoFunction', function()
 	{
 		alert('go');
+		alert(graph);
+		alert(ui);
+		alert(ui.editor);
 			ui.showDialog(new PopupDialog(ui, "http://scodi.ch").container, 320, 140, true, true);
 	});
 	
